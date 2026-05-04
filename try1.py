@@ -1,2 +1,3 @@
 print('try 1 niggaaaa')
 print("what the fuck")
+print(whe)
